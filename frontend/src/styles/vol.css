@@ -1,0 +1,12 @@
+.req{
+display: flex;
+flex-wrap: wrap;
+/* justify-content: left; */
+/* justify-content: space-evenly; */
+}
+.req1{
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: left; */
+    justify-content: space-around;
+}

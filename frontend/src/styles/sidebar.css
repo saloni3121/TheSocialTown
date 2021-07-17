@@ -1,0 +1,20 @@
+.avatar {
+  margin-left: auto;
+  margin-right: auto;
+}
+li {
+  overflow-wrap: break-word;
+}
+.myStyle {
+  transform: translateX(0%);
+}
+@media screen and (max-width: 756px) {
+  #slide-out {
+    transform: translateX(-150%);
+  }
+}
+.avatar{
+  width:150px;
+  height:150px;
+  border-radius: 50%;
+}

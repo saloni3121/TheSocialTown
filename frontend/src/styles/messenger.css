@@ -1,0 +1,9 @@
+.pop {
+    text-align: left;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: flex-start;
+    height:0px;
+    align-items: center;
+    margin-right: 50px;
+}
